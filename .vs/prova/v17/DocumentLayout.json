@@ -1,0 +1,437 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projetos\\prova\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C343D34B-50E1-4DBF-8693-180832CB4798}|ProvaRental\\ProvaRental.csproj|d:\\projetos\\prova\\provarental\\services\\motoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C343D34B-50E1-4DBF-8693-180832CB4798}|ProvaRental\\ProvaRental.csproj|solutionrelative:provarental\\services\\motoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C343D34B-50E1-4DBF-8693-180832CB4798}|ProvaRental\\ProvaRental.csproj|d:\\projetos\\prova\\provarental\\repositories\\locacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C343D34B-50E1-4DBF-8693-180832CB4798}|ProvaRental\\ProvaRental.csproj|solutionrelative:provarental\\repositories\\locacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C343D34B-50E1-4DBF-8693-180832CB4798}|ProvaRental\\ProvaRental.csproj|d:\\projetos\\prova\\provarental\\repositories\\ilocacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C343D34B-50E1-4DBF-8693-180832CB4798}|ProvaRental\\ProvaRental.csproj|solutionrelative:provarental\\repositories\\ilocacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C343D34B-50E1-4DBF-8693-180832CB4798}|ProvaRental\\ProvaRental.csproj|d:\\projetos\\prova\\provarental\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C343D34B-50E1-4DBF-8693-180832CB4798}|ProvaRental\\ProvaRental.csproj|solutionrelative:provarental\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C343D34B-50E1-4DBF-8693-180832CB4798}|ProvaRental\\ProvaRental.csproj|d:\\projetos\\prova\\provarental\\data\\models\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C343D34B-50E1-4DBF-8693-180832CB4798}|ProvaRental\\ProvaRental.csproj|solutionrelative:provarental\\data\\models\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C343D34B-50E1-4DBF-8693-180832CB4798}|ProvaRental\\ProvaRental.csproj|d:\\projetos\\prova\\provarental\\data\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C343D34B-50E1-4DBF-8693-180832CB4798}|ProvaRental\\ProvaRental.csproj|solutionrelative:provarental\\data\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C343D34B-50E1-4DBF-8693-180832CB4798}|ProvaRental\\ProvaRental.csproj|d:\\projetos\\prova\\provarental\\data\\models\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C343D34B-50E1-4DBF-8693-180832CB4798}|ProvaRental\\ProvaRental.csproj|solutionrelative:provarental\\data\\models\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C343D34B-50E1-4DBF-8693-180832CB4798}|ProvaRental\\ProvaRental.csproj|d:\\projetos\\prova\\provarental\\data\\models\\locacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C343D34B-50E1-4DBF-8693-180832CB4798}|ProvaRental\\ProvaRental.csproj|solutionrelative:provarental\\data\\models\\locacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C343D34B-50E1-4DBF-8693-180832CB4798}|ProvaRental\\ProvaRental.csproj|d:\\projetos\\prova\\provarental\\data\\provacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C343D34B-50E1-4DBF-8693-180832CB4798}|ProvaRental\\ProvaRental.csproj|solutionrelative:provarental\\data\\provacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projetos\\prova\\ProvaRental\\Migrations\\20240922113755_userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProvaRental\\Migrations\\20240922113755_userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C343D34B-50E1-4DBF-8693-180832CB4798}|ProvaRental\\ProvaRental.csproj|d:\\projetos\\prova\\provarental\\repositories\\entregadorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C343D34B-50E1-4DBF-8693-180832CB4798}|ProvaRental\\ProvaRental.csproj|solutionrelative:provarental\\repositories\\entregadorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C343D34B-50E1-4DBF-8693-180832CB4798}|ProvaRental\\ProvaRental.csproj|d:\\projetos\\prova\\provarental\\services\\entregadorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C343D34B-50E1-4DBF-8693-180832CB4798}|ProvaRental\\ProvaRental.csproj|solutionrelative:provarental\\services\\entregadorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C343D34B-50E1-4DBF-8693-180832CB4798}|ProvaRental\\ProvaRental.csproj|d:\\projetos\\prova\\provarental\\data\\models\\entregadordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C343D34B-50E1-4DBF-8693-180832CB4798}|ProvaRental\\ProvaRental.csproj|solutionrelative:provarental\\data\\models\\entregadordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C343D34B-50E1-4DBF-8693-180832CB4798}|ProvaRental\\ProvaRental.csproj|d:\\projetos\\prova\\provarental\\data\\models\\entregador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C343D34B-50E1-4DBF-8693-180832CB4798}|ProvaRental\\ProvaRental.csproj|solutionrelative:provarental\\data\\models\\entregador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C343D34B-50E1-4DBF-8693-180832CB4798}|ProvaRental\\ProvaRental.csproj|d:\\projetos\\prova\\provarental\\services\\locacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C343D34B-50E1-4DBF-8693-180832CB4798}|ProvaRental\\ProvaRental.csproj|solutionrelative:provarental\\services\\locacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C343D34B-50E1-4DBF-8693-180832CB4798}|ProvaRental\\ProvaRental.csproj|d:\\projetos\\prova\\provarental\\services\\imotoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C343D34B-50E1-4DBF-8693-180832CB4798}|ProvaRental\\ProvaRental.csproj|solutionrelative:provarental\\services\\imotoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C343D34B-50E1-4DBF-8693-180832CB4798}|ProvaRental\\ProvaRental.csproj|d:\\projetos\\prova\\provarental\\services\\ilocacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C343D34B-50E1-4DBF-8693-180832CB4798}|ProvaRental\\ProvaRental.csproj|solutionrelative:provarental\\services\\ilocacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C343D34B-50E1-4DBF-8693-180832CB4798}|ProvaRental\\ProvaRental.csproj|d:\\projetos\\prova\\provarental\\repositories\\ientregadorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C343D34B-50E1-4DBF-8693-180832CB4798}|ProvaRental\\ProvaRental.csproj|solutionrelative:provarental\\repositories\\ientregadorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C343D34B-50E1-4DBF-8693-180832CB4798}|ProvaRental\\ProvaRental.csproj|d:\\projetos\\prova\\provarental\\services\\ientregadorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C343D34B-50E1-4DBF-8693-180832CB4798}|ProvaRental\\ProvaRental.csproj|solutionrelative:provarental\\services\\ientregadorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C343D34B-50E1-4DBF-8693-180832CB4798}|ProvaRental\\ProvaRental.csproj|d:\\projetos\\prova\\provarental\\provarental.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C343D34B-50E1-4DBF-8693-180832CB4798}|ProvaRental\\ProvaRental.csproj|solutionrelative:provarental\\provarental.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C343D34B-50E1-4DBF-8693-180832CB4798}|ProvaRental\\ProvaRental.csproj|d:\\projetos\\prova\\provarental\\services\\rabbitmqpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C343D34B-50E1-4DBF-8693-180832CB4798}|ProvaRental\\ProvaRental.csproj|solutionrelative:provarental\\services\\rabbitmqpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C343D34B-50E1-4DBF-8693-180832CB4798}|ProvaRental\\ProvaRental.csproj|d:\\projetos\\prova\\provarental\\services\\irabbitmqpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C343D34B-50E1-4DBF-8693-180832CB4798}|ProvaRental\\ProvaRental.csproj|solutionrelative:provarental\\services\\irabbitmqpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C343D34B-50E1-4DBF-8693-180832CB4798}|ProvaRental\\ProvaRental.csproj|d:\\projetos\\prova\\provarental\\repositories\\motorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C343D34B-50E1-4DBF-8693-180832CB4798}|ProvaRental\\ProvaRental.csproj|solutionrelative:provarental\\repositories\\motorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C343D34B-50E1-4DBF-8693-180832CB4798}|ProvaRental\\ProvaRental.csproj|d:\\projetos\\prova\\provarental\\repositories\\imotorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C343D34B-50E1-4DBF-8693-180832CB4798}|ProvaRental\\ProvaRental.csproj|solutionrelative:provarental\\repositories\\imotorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C343D34B-50E1-4DBF-8693-180832CB4798}|ProvaRental\\ProvaRental.csproj|d:\\projetos\\prova\\provarental\\migrations\\20240922114111_userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C343D34B-50E1-4DBF-8693-180832CB4798}|ProvaRental\\ProvaRental.csproj|solutionrelative:provarental\\migrations\\20240922114111_userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C343D34B-50E1-4DBF-8693-180832CB4798}|ProvaRental\\ProvaRental.csproj|d:\\projetos\\prova\\provarental\\migrations\\20240920124332_entregadorcnh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C343D34B-50E1-4DBF-8693-180832CB4798}|ProvaRental\\ProvaRental.csproj|solutionrelative:provarental\\migrations\\20240920124332_entregadorcnh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserLoginDTO.cs",
+              "DocumentMoniker": "D:\\Projetos\\prova\\ProvaRental\\Data\\Models\\UserLoginDTO.cs",
+              "RelativeDocumentMoniker": "ProvaRental\\Data\\Models\\UserLoginDTO.cs",
+              "ToolTip": "D:\\Projetos\\prova\\ProvaRental\\Data\\Models\\UserLoginDTO.cs",
+              "RelativeToolTip": "ProvaRental\\Data\\Models\\UserLoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T11:44:15.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Locacao.cs",
+              "DocumentMoniker": "D:\\Projetos\\prova\\ProvaRental\\Data\\Models\\Locacao.cs",
+              "RelativeDocumentMoniker": "ProvaRental\\Data\\Models\\Locacao.cs",
+              "ToolTip": "D:\\Projetos\\prova\\ProvaRental\\Data\\Models\\Locacao.cs",
+              "RelativeToolTip": "ProvaRental\\Data\\Models\\Locacao.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAYwBkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T11:22:55.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EntregadorDto.cs",
+              "DocumentMoniker": "D:\\Projetos\\prova\\ProvaRental\\Data\\Models\\EntregadorDto.cs",
+              "RelativeDocumentMoniker": "ProvaRental\\Data\\Models\\EntregadorDto.cs",
+              "ToolTip": "D:\\Projetos\\prova\\ProvaRental\\Data\\Models\\EntregadorDto.cs",
+              "RelativeToolTip": "ProvaRental\\Data\\Models\\EntregadorDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T18:00:12.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projetos\\prova\\ProvaRental\\Program.cs",
+              "RelativeDocumentMoniker": "ProvaRental\\Program.cs",
+              "ToolTip": "D:\\Projetos\\prova\\ProvaRental\\Program.cs",
+              "RelativeToolTip": "ProvaRental\\Program.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAADwv5oAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T16:49:10.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Entregador.cs",
+              "DocumentMoniker": "D:\\Projetos\\prova\\ProvaRental\\Data\\Models\\Entregador.cs",
+              "RelativeDocumentMoniker": "ProvaRental\\Data\\Models\\Entregador.cs",
+              "ToolTip": "D:\\Projetos\\prova\\ProvaRental\\Data\\Models\\Entregador.cs",
+              "RelativeToolTip": "ProvaRental\\Data\\Models\\Entregador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T18:00:43.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProvaContext.cs",
+              "DocumentMoniker": "D:\\Projetos\\prova\\ProvaRental\\Data\\ProvaContext.cs",
+              "RelativeDocumentMoniker": "ProvaRental\\Data\\ProvaContext.cs",
+              "ToolTip": "D:\\Projetos\\prova\\ProvaRental\\Data\\ProvaContext.cs",
+              "RelativeToolTip": "ProvaRental\\Data\\ProvaContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T16:53:36.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MotoService.cs",
+              "DocumentMoniker": "D:\\Projetos\\prova\\ProvaRental\\Services\\MotoService.cs",
+              "RelativeDocumentMoniker": "ProvaRental\\Services\\MotoService.cs",
+              "ToolTip": "D:\\Projetos\\prova\\ProvaRental\\Services\\MotoService.cs",
+              "RelativeToolTip": "ProvaRental\\Services\\MotoService.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAApwD8AAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T16:54:45.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LocacaoRepository.cs",
+              "DocumentMoniker": "D:\\Projetos\\prova\\ProvaRental\\Repositories\\LocacaoRepository.cs",
+              "RelativeDocumentMoniker": "ProvaRental\\Repositories\\LocacaoRepository.cs",
+              "ToolTip": "D:\\Projetos\\prova\\ProvaRental\\Repositories\\LocacaoRepository.cs",
+              "RelativeToolTip": "ProvaRental\\Repositories\\LocacaoRepository.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAhwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T11:36:43.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ILocacaoRepository.cs",
+              "DocumentMoniker": "D:\\Projetos\\prova\\ProvaRental\\Repositories\\ILocacaoRepository.cs",
+              "RelativeDocumentMoniker": "ProvaRental\\Repositories\\ILocacaoRepository.cs",
+              "ToolTip": "D:\\Projetos\\prova\\ProvaRental\\Repositories\\ILocacaoRepository.cs",
+              "RelativeToolTip": "ProvaRental\\Repositories\\ILocacaoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T11:36:04.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ILocacaoService.cs",
+              "DocumentMoniker": "D:\\Projetos\\prova\\ProvaRental\\Services\\ILocacaoService.cs",
+              "RelativeDocumentMoniker": "ProvaRental\\Services\\ILocacaoService.cs",
+              "ToolTip": "D:\\Projetos\\prova\\ProvaRental\\Services\\ILocacaoService.cs",
+              "RelativeToolTip": "ProvaRental\\Services\\ILocacaoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T11:34:09.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LocacaoService.cs",
+              "DocumentMoniker": "D:\\Projetos\\prova\\ProvaRental\\Services\\LocacaoService.cs",
+              "RelativeDocumentMoniker": "ProvaRental\\Services\\LocacaoService.cs",
+              "ToolTip": "D:\\Projetos\\prova\\ProvaRental\\Services\\LocacaoService.cs",
+              "RelativeToolTip": "ProvaRental\\Services\\LocacaoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T11:34:50.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240922113755_userlogin.cs",
+              "DocumentMoniker": "D:\\Projetos\\prova\\ProvaRental\\Migrations\\20240922113755_userlogin.cs",
+              "RelativeDocumentMoniker": "ProvaRental\\Migrations\\20240922113755_userlogin.cs",
+              "ToolTip": "D:\\Projetos\\prova\\ProvaRental\\Migrations\\20240922113755_userlogin.cs",
+              "RelativeToolTip": "ProvaRental\\Migrations\\20240922113755_userlogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T11:37:55.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "D:\\Projetos\\prova\\ProvaRental\\Data\\Models\\UserLogin.cs",
+              "RelativeDocumentMoniker": "ProvaRental\\Data\\Models\\UserLogin.cs",
+              "ToolTip": "D:\\Projetos\\prova\\ProvaRental\\Data\\Models\\UserLogin.cs",
+              "RelativeToolTip": "ProvaRental\\Data\\Models\\UserLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T11:33:18.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240922114111_userlogin.cs",
+              "DocumentMoniker": "D:\\Projetos\\prova\\ProvaRental\\Migrations\\20240922114111_userlogin.cs",
+              "RelativeDocumentMoniker": "ProvaRental\\Migrations\\20240922114111_userlogin.cs",
+              "ToolTip": "D:\\Projetos\\prova\\ProvaRental\\Migrations\\20240922114111_userlogin.cs",
+              "RelativeToolTip": "ProvaRental\\Migrations\\20240922114111_userlogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T11:41:11.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Moto.cs",
+              "DocumentMoniker": "D:\\Projetos\\prova\\ProvaRental\\Data\\Models\\Moto.cs",
+              "RelativeDocumentMoniker": "ProvaRental\\Data\\Models\\Moto.cs",
+              "ToolTip": "D:\\Projetos\\prova\\ProvaRental\\Data\\Models\\Moto.cs",
+              "RelativeToolTip": "ProvaRental\\Data\\Models\\Moto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T11:40:36.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20240920124332_entregadorcnh.cs",
+              "DocumentMoniker": "D:\\Projetos\\prova\\ProvaRental\\Migrations\\20240920124332_entregadorcnh.cs",
+              "RelativeDocumentMoniker": "ProvaRental\\Migrations\\20240920124332_entregadorcnh.cs",
+              "ToolTip": "D:\\Projetos\\prova\\ProvaRental\\Migrations\\20240920124332_entregadorcnh.cs",
+              "RelativeToolTip": "ProvaRental\\Migrations\\20240920124332_entregadorcnh.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T12:43:32.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IMotoService.cs",
+              "DocumentMoniker": "D:\\Projetos\\prova\\ProvaRental\\Services\\IMotoService.cs",
+              "RelativeDocumentMoniker": "ProvaRental\\Services\\IMotoService.cs",
+              "ToolTip": "D:\\Projetos\\prova\\ProvaRental\\Services\\IMotoService.cs",
+              "RelativeToolTip": "ProvaRental\\Services\\IMotoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T16:54:41.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EntregadorService.cs",
+              "DocumentMoniker": "D:\\Projetos\\prova\\ProvaRental\\Services\\EntregadorService.cs",
+              "RelativeDocumentMoniker": "ProvaRental\\Services\\EntregadorService.cs",
+              "ToolTip": "D:\\Projetos\\prova\\ProvaRental\\Services\\EntregadorService.cs",
+              "RelativeToolTip": "ProvaRental\\Services\\EntregadorService.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwAUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:30:43.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EntregadorRepository.cs",
+              "DocumentMoniker": "D:\\Projetos\\prova\\ProvaRental\\Repositories\\EntregadorRepository.cs",
+              "RelativeDocumentMoniker": "ProvaRental\\Repositories\\EntregadorRepository.cs",
+              "ToolTip": "D:\\Projetos\\prova\\ProvaRental\\Repositories\\EntregadorRepository.cs",
+              "RelativeToolTip": "ProvaRental\\Repositories\\EntregadorRepository.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAABUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:29:38.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IEntregadorService.cs",
+              "DocumentMoniker": "D:\\Projetos\\prova\\ProvaRental\\Services\\IEntregadorService.cs",
+              "RelativeDocumentMoniker": "ProvaRental\\Services\\IEntregadorService.cs",
+              "ToolTip": "D:\\Projetos\\prova\\ProvaRental\\Services\\IEntregadorService.cs",
+              "RelativeToolTip": "ProvaRental\\Services\\IEntregadorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:32:11.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IEntregadorRepository.cs",
+              "DocumentMoniker": "D:\\Projetos\\prova\\ProvaRental\\Repositories\\IEntregadorRepository.cs",
+              "RelativeDocumentMoniker": "ProvaRental\\Repositories\\IEntregadorRepository.cs",
+              "ToolTip": "D:\\Projetos\\prova\\ProvaRental\\Repositories\\IEntregadorRepository.cs",
+              "RelativeToolTip": "ProvaRental\\Repositories\\IEntregadorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:28:49.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProvaRental.csproj",
+              "DocumentMoniker": "D:\\Projetos\\prova\\ProvaRental\\ProvaRental.csproj",
+              "RelativeDocumentMoniker": "ProvaRental\\ProvaRental.csproj",
+              "ToolTip": "D:\\Projetos\\prova\\ProvaRental\\ProvaRental.csproj",
+              "RelativeToolTip": "ProvaRental\\ProvaRental.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-19T17:06:12.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IRabbitMQPublisher.cs",
+              "DocumentMoniker": "D:\\Projetos\\prova\\ProvaRental\\Services\\IRabbitMQPublisher.cs",
+              "RelativeDocumentMoniker": "ProvaRental\\Services\\IRabbitMQPublisher.cs",
+              "ToolTip": "D:\\Projetos\\prova\\ProvaRental\\Services\\IRabbitMQPublisher.cs",
+              "RelativeToolTip": "ProvaRental\\Services\\IRabbitMQPublisher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T16:54:43.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IMotoRepository.cs",
+              "DocumentMoniker": "D:\\Projetos\\prova\\ProvaRental\\Repositories\\IMotoRepository.cs",
+              "RelativeDocumentMoniker": "ProvaRental\\Repositories\\IMotoRepository.cs",
+              "ToolTip": "D:\\Projetos\\prova\\ProvaRental\\Repositories\\IMotoRepository.cs",
+              "RelativeToolTip": "ProvaRental\\Repositories\\IMotoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T16:54:35.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MotoRepository.cs",
+              "DocumentMoniker": "D:\\Projetos\\prova\\ProvaRental\\Repositories\\MotoRepository.cs",
+              "RelativeDocumentMoniker": "ProvaRental\\Repositories\\MotoRepository.cs",
+              "ToolTip": "D:\\Projetos\\prova\\ProvaRental\\Repositories\\MotoRepository.cs",
+              "RelativeToolTip": "ProvaRental\\Repositories\\MotoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T16:53:21.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RabbitMQPublisher.cs",
+              "DocumentMoniker": "D:\\Projetos\\prova\\ProvaRental\\Services\\RabbitMQPublisher.cs",
+              "RelativeDocumentMoniker": "ProvaRental\\Services\\RabbitMQPublisher.cs",
+              "ToolTip": "D:\\Projetos\\prova\\ProvaRental\\Services\\RabbitMQPublisher.cs",
+              "RelativeToolTip": "ProvaRental\\Services\\RabbitMQPublisher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T16:50:41.625Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

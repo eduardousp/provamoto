@@ -1,0 +1,6 @@
+@ProvaRental_HostAddress = http://localhost:5062
+
+GET {{ProvaRental_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
